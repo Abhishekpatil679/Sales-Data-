@@ -1,1 +1,1 @@
-The db dump is sql file and the project is actual Power Bi project
+The db dump is sql file and the Sales project is actual Power Bi project
